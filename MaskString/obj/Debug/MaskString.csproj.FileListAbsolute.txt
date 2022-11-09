@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\c#\DayOne\MaskString\bin\Debug\MaskString.exe.config
+C:\Users\USER\Desktop\c#\DayOne\MaskString\bin\Debug\MaskString.exe
+C:\Users\USER\Desktop\c#\DayOne\MaskString\bin\Debug\MaskString.pdb
+C:\Users\USER\Desktop\c#\DayOne\MaskString\obj\Debug\MaskString.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\DayOne\MaskString\obj\Debug\MaskString.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\c#\DayOne\MaskString\obj\Debug\MaskString.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\DayOne\MaskString\obj\Debug\MaskString.exe
+C:\Users\USER\Desktop\c#\DayOne\MaskString\obj\Debug\MaskString.pdb

@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\c#\DayOne\BreakAndContinue\bin\Debug\BreakAndContinue.exe.config
+C:\Users\USER\Desktop\c#\DayOne\BreakAndContinue\bin\Debug\BreakAndContinue.exe
+C:\Users\USER\Desktop\c#\DayOne\BreakAndContinue\bin\Debug\BreakAndContinue.pdb
+C:\Users\USER\Desktop\c#\DayOne\BreakAndContinue\obj\Debug\BreakAndContinue.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\DayOne\BreakAndContinue\obj\Debug\BreakAndContinue.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\c#\DayOne\BreakAndContinue\obj\Debug\BreakAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\DayOne\BreakAndContinue\obj\Debug\BreakAndContinue.exe
+C:\Users\USER\Desktop\c#\DayOne\BreakAndContinue\obj\Debug\BreakAndContinue.pdb

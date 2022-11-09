@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\c#\DayOne\FindCapIndex\bin\Debug\FindCapIndex.exe.config
+C:\Users\USER\Desktop\c#\DayOne\FindCapIndex\bin\Debug\FindCapIndex.exe
+C:\Users\USER\Desktop\c#\DayOne\FindCapIndex\bin\Debug\FindCapIndex.pdb
+C:\Users\USER\Desktop\c#\DayOne\FindCapIndex\obj\Debug\FindCapIndex.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\DayOne\FindCapIndex\obj\Debug\FindCapIndex.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\c#\DayOne\FindCapIndex\obj\Debug\FindCapIndex.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\DayOne\FindCapIndex\obj\Debug\FindCapIndex.exe
+C:\Users\USER\Desktop\c#\DayOne\FindCapIndex\obj\Debug\FindCapIndex.pdb

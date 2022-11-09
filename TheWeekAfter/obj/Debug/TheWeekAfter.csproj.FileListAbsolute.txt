@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\c#\DayOne\TheWeekAfter\bin\Debug\TheWeekAfter.exe.config
+C:\Users\USER\Desktop\c#\DayOne\TheWeekAfter\bin\Debug\TheWeekAfter.exe
+C:\Users\USER\Desktop\c#\DayOne\TheWeekAfter\bin\Debug\TheWeekAfter.pdb
+C:\Users\USER\Desktop\c#\DayOne\TheWeekAfter\obj\Debug\TheWeekAfter.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\DayOne\TheWeekAfter\obj\Debug\TheWeekAfter.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\c#\DayOne\TheWeekAfter\obj\Debug\TheWeekAfter.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\DayOne\TheWeekAfter\obj\Debug\TheWeekAfter.exe
+C:\Users\USER\Desktop\c#\DayOne\TheWeekAfter\obj\Debug\TheWeekAfter.pdb

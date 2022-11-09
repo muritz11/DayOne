@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\c#\DayOne\LibraryMgt\bin\Debug\LibraryMgt.exe.config
+C:\Users\USER\Desktop\c#\DayOne\LibraryMgt\bin\Debug\LibraryMgt.exe
+C:\Users\USER\Desktop\c#\DayOne\LibraryMgt\bin\Debug\LibraryMgt.pdb
+C:\Users\USER\Desktop\c#\DayOne\LibraryMgt\obj\Debug\LibraryMgt.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\DayOne\LibraryMgt\obj\Debug\LibraryMgt.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\c#\DayOne\LibraryMgt\obj\Debug\LibraryMgt.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\DayOne\LibraryMgt\obj\Debug\LibraryMgt.exe
+C:\Users\USER\Desktop\c#\DayOne\LibraryMgt\obj\Debug\LibraryMgt.pdb

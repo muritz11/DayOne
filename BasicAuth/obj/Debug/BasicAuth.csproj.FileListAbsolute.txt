@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\c#\DayOne\BasicAuth\bin\Debug\BasicAuth.exe.config
+C:\Users\USER\Desktop\c#\DayOne\BasicAuth\bin\Debug\BasicAuth.exe
+C:\Users\USER\Desktop\c#\DayOne\BasicAuth\bin\Debug\BasicAuth.pdb
+C:\Users\USER\Desktop\c#\DayOne\BasicAuth\obj\Debug\BasicAuth.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\DayOne\BasicAuth\obj\Debug\BasicAuth.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\c#\DayOne\BasicAuth\obj\Debug\BasicAuth.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\DayOne\BasicAuth\obj\Debug\BasicAuth.exe
+C:\Users\USER\Desktop\c#\DayOne\BasicAuth\obj\Debug\BasicAuth.pdb
